@@ -11,7 +11,7 @@ A simple, single-page web application that displays detailed information about t
 - **Network Status (Online/Offline)**
 
 ## Live Demo  
-🔗 [View the Client Information]()
+🔗 [View the Client Information](https://ousamaalzhouri.github.io/client-info/)
 
 
 ## Features
